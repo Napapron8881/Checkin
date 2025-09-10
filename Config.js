@@ -1,7 +1,8 @@
 // ประกาศค่า URL ที่ใช้เชื่อมต่อกับ Web App
-    const WEB_APP_MEMBER_URL = 'https://script.google.com/macros/s/AKfycbwR5z1QhMd3588Hn5pW7kF55p0pUp4AG2ZmbzVDHTOhNBOFjjPuWdKIny8G8_rT0rodmA/exec';
-    const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbxu9h0ZJLm0h__BEahkGehV5nahKBs-aED6V4hYQnw-XxBmoUEuxIyZ4YHr_CRXEm53/exec';
+    const WEB_APP_MEMBER_URL = 'https://script.google.com/macros/s/AKfycbzwZDlAdAUGYuin9PYLolmzYHQP7-sMP8rnqKIztq63ZTzfKFiqdw-scMhjENWEKxHwOA/exec';
+    const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbzftcccXR3nghX_3ogCkmeW-h2gg6FQGczzMg232KBd_f2pCt3vHiCUDsH3GxMsjkExUg/exec';
 //LIFF_ID
-    const LIFF_ID = '2007747842-OGeyrGkv'; // LIFF ID Checkin
-    const LIFF_HISTORY = '2007747842-p0YX1oBn'; // LIFF ID history
-    const LIFF_REGISTER = '2007747842-oJr1GXK2'; // LIFF ID register
+    const LIFF_ID = '2008087991-KB2Egmmq'; // LIFF ID Checkin
+    const LIFF_HISTORY = '2008087991-noD5366y'; // LIFF ID history
+    const LIFF_REGISTER = '2008087991-QRJG4KK6'; // LIFF ID register
+
